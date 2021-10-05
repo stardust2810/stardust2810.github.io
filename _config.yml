@@ -33,7 +33,7 @@ socials:
 
 # build settings
 markdown: kramdown
-remote_theme: "stardust2810/forty-jekyll-theme"
+theme: "forty-jekyll-theme"
 
 sass:
   style: compressed
