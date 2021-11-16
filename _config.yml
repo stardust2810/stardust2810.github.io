@@ -6,12 +6,12 @@ description: A personal blog on the ups and downs of the Ng Family.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: stardust2810
-street_address: tiny island somewhere in the pacific
-city: Zion
-state: flux
-zip_code: xxxxxx
+street_address: null
+city: null
+state: null
+zip_code: null
 country: tiny island somewhere in the pacific
-phone: (65) xxxx-xxxx
+phone: null
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
