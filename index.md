@@ -3,9 +3,9 @@ layout: home
 title: Home
 landing-title: 'Hi, we are the Ng Family!'
 description: null
-image: null
+image: assets/images/ng-family.jpg
 author: null
-show_tile: false
+show_tile: true
 ---
 
 This is our story, the story of our lives!
