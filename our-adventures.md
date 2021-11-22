@@ -1,5 +1,5 @@
 ---
-title: Our Adventures!!
+title: Adventures of the Ng Family!!!!
 layout: landing
 description: 'Enjoy the little things in life, for one day you may look back and realize they were the big things'
 image: assets/images/pic07.jpg
@@ -23,16 +23,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/nz-1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>To the Land of the Long White Cloud!!</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This was a trip that has been in the planning for almost 1 year! Finally on 28 Nov 2019, we begun our long anticipated trip to New Zealand, the land of the long white clouds.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Join Us</a></li>
 				</ul>
 			</div>
 		</div>
