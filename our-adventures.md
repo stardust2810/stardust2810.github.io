@@ -10,6 +10,22 @@ nav-menu: true
 <div id="main">
 <!-- Two -->
 <section id="two" class="spotlights">
+<section>
+	<a href="generic.html" class="image">
+		<img src="{% link assets/images/20211201-dream-cruise-1.jpg %}" alt="" data-position="top center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Cruisecation on the World Dream</h3>
+			</header>
+			<p>Dec 2021, most of the world is still closed to us due to Covd-19 but thankfully, the cruise is still available to us!</p>
+			<ul class="actions">
+				<li><a href="generic.html" class="button">It's a dream...</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/201911-nz-1.jpg %}" alt="" data-position="center center" />
@@ -53,7 +69,7 @@ nav-menu: true
 				</header>
 				<p>We decided to do a staycation in Forest City, JB for the March 2019 holidays. It's a much needed break for Justina and the kids!</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Take a break!</a></li>
 				</ul>
 			</div>
 		</div>
