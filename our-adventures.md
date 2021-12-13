@@ -21,7 +21,7 @@ nav-menu: true
 			</header>
 			<p>Dec 2021, most of the world is still closed to us due to Covd-19 but thankfully, the cruise is still available to us!</p>
 			<ul class="actions">
-				<li><a href="generic.html" class="button">It's a dream...</a></li>
+				<li><a href="/travels/cruisecation-on-the-world-dream.html" class="button">It's a dream...</a></li>
 			</ul>
 		</div>
 	</div>
