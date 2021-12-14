@@ -13,14 +13,15 @@ Finally, our long awaited holiday is here! As we still could not travel overseas
 <li>Book slots for pool / jacuzzi first</li>
 <li>Download and use the app for booking of shows</li>
 <li>Lunch is available!</li>
+<li>Take your luggages along with you so that once you book your reservations for the swimming pool or jaccuzi you can immediately change into your swimming suit and head to swim or chill.
 </ul>
 
 <span class="image left"><img src="{% link assets/images/20211201-dream-cruise-2.jpg %}" alt="" /></span>
-Although Emanuel found out that we could park our car there for around $45, we decided to take the MRT there instead. We left home around 10ish and arrived at Marine South Pier station (neaarest station with about 10 mins walk to the Singapore Cruise Centre) around 11:40am. Recommended!
+Although Emanuel found out that we could park our car there for around $45, we decided to take the MRT there instead. We left home around 10ish and arrived at Marine South Pier station (nearest station with about 10 mins walk to the Singapore Cruise Centre) around 11:40am. Recommended!
 
 <span class="image right"><img src="{% link assets/images/20211201-dream-cruise-3.jpg %}" alt="" /></span>This being the COVID-19 period, all passengers had to take an ART test prior to boarding. Surprisingly, although Justina and Victoria took their test before us, Emanuel and I got out test results within 10 mins (sms received by me, or you can also check your TraceTogether app for the results.) earlier than Justina and Victoria. Once all the results were received, we were able to proceed from the ART holding center to join the queue for entry into the Singapore Cruise Centre.
 
-The wait here was much longer, about 40 mins, before we even got into the cruise centre itself! Once inside however, it was relatively smooth (not sure whether it was due to the being out of the sweltering heat), from the mandatory checking of luggages to the receiving of our ship pass and the Tracy token (mandatory for moving around the ship). From then on, it was another wait (this time, at the departure hall) before we finally got on board our home for the next 2 nights, the Genting World Dream, around 2:15pm. And so began our holiday proper!
+The wait here was much longer, about 1h, before we even got into the cruise centre itself! Once inside however, it was relatively smooth (not sure whether it was due to the being out of the sweltering heat), from the mandatory checking of luggages to the receiving of our ship pass and the Tracy token (mandatory for moving around the ship). From then on, it was another wait (this time, at the departure hall) before we finally got on board our home for the next 2 nights, the Genting World Dream, around 2:15pm. And so began our holiday proper!
 
 <em>Tip: Most people will check into their rooms first when they board the ship. Take this opportunity to make your bookings for the pool / jacuzzi.</em>
 
@@ -44,7 +45,9 @@ Initially, we were disappointed when informed that the zip line (part of the rop
 
 Truth be told, was quite disappointed as there wasn't much in the way of magic, a verdict all four of us agreed upon. After a long day, we finally settled down into our rooms and entered our dream world in the comfort of our beds.
 
-<span class="image left"><img src="{% link assets/images/20211201-dream-cruise-9.jpg %}" alt="" /></span>On our second day (which essentially was the main day for a 3 days 2 nights cruisecation), we started off by visiting the VR room! Kids below 12 get to try out the games at a cheaper rate (1-for-1) during certain hours but do take note of the height requirements. Victoria went for her "Finger Coaster" 4D ride while Emanuel and Justina tried the impressive looking (but ultimately disappointing and unexciting) racing simulator. At the very least, Victoria enjoyed herself, hence the money wasn't wasted.
+<span class="image left"><img src="{% link assets/images/20211201-dream-cruise-9.jpg %}" alt="" /></span>On our second day (which essentially was the main day for a 3 days 2 nights cruisecation), we started off by visiting the VR room! Kids below 12 get to try out the games at a cheaper rate (1-for-1) during certain hours but do take note of the height requirements. Victoria went for her "Finger Coaster" 4D ride while Emanuel and Justina tried the impressive looking (but ultimately disappointing and unexciting) 3 screens racing simulator. At the very least, Victoria enjoyed herself, hence the money wasn't wasted. Victoria and i also went the try out the 3D Dark Ride and it was very fun! It is a must try!
+
+<em>Tip: At different times of the day, there are different promotions.</em>
 
 After attempting the games (and burning a hole in my wallet), Victoria and I immediately ran to the queue for the rope course again. Must say that one advantage of being in the midst of a pandemic, is that the crowd is generally much lesser. Although we had to queue this time round, the waiting time was quite ok. It was a beautiful, windy morning and being at the highest point of the ship, with a superb view of the surroundings was a moment that i truly savour with relish.
 
@@ -52,10 +55,12 @@ After attempting the games (and burning a hole in my wallet), Victoria and I imm
 
 <span class="image left"><img src="{% link assets/images/20211201-dream-cruise-12.jpg %}" alt="" /></span>The rest of the day was spent participating in the on board activities (dancing for justina and I, photo frame making for Victoria, quiz show for both Victoria and me). Was pretty proud of Victoria for her knowledge and courage, in answering the various questions pertaining to Santa Claus and the 13 Yule lads! She actually won 5 1-for-1 tickets for the VR games, and unselfishly shared 3 of her winnings with another participant who did not managed to get any. You go Girl!
 
-Later in the evening, the entire family participated in the "Squid Game" equivalent. Must say that tho it wasn't as bloody and gory (and much less exciting compared to the drama), we had a nice time playing together, before making our way for the special light show at the upper decks.
+Later in the evening, the entire family participated in the "Squid Game" equivalent. Must say that tho it wasn't as bloody and gory (and much less exciting compared to the drama), we had a nice time playing together (at the and of the games, you get a gift that you can choose yourself and 10 arcade game tickets.), before making our way for the special light show at the upper decks.
 
 The last and final day was pretty much reserved for disembarking. All the activities were closed saved for those related to one's tummy. We decided to stay on till the last possible moment (11am), making a final round of the ship and enjoying our rooms whilst waiting for our call.
 
-<em>Tip: The crew will knock on your door to inform you that you can being disembarking</em> We were one of the last families to disembark, and it was kinda weird walking thro the now empty hallways, jackpot machines and stairs to the exit.
+<em>Tip: The crew will knock on your door to inform you that you can being disembarking</em>
+
+ We were one of the last families to disembark, and it was kinda weird walking thro the now empty hallways, jackpot machines and stairs to the exit.
 
 All in, it was a welcome break from the drudgery, everyday life during the COVID-19 pandemic. We left with happy memories and no regrets, save one ... only that it had to end so soon! Perhaps, the Palace Villa next?
