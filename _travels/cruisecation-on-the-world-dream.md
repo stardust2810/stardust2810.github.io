@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: innerpost
 title: Cruisecation on the World Dream
 description: Our first post-Covid 19 cruise on the World Dream
 image: assets/images/20211201-dream-cruise-1.jpg
