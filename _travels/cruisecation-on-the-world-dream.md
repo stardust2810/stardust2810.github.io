@@ -17,15 +17,15 @@ Finally, our long awaited holiday is here! As we still could not travel overseas
 </ul>
 
 <span class="image left"><img src="{% link assets/images/20211201-dream-cruise-2.jpg %}" alt="" /></span>
-Although Emanuel found out that we could park our car there for around $45, we decided to take the MRT there instead. We left home around 10ish and arrived at Marine South Pier station (nearest station with about 10 mins walk to the Singapore Cruise Centre) around 11:40am. Recommended!
+Although Victoria found out that we could park our car there for around $45, we decided to take the MRT there instead. We left home around 10ish and arrived at Marine South Pier station (nearest station with about 10 mins walk to the Singapore Cruise Centre) around 11:40am. Recommended!
 
-<span class="image right"><img src="{% link assets/images/20211201-dream-cruise-3.jpg %}" alt="" /></span>This being the COVID-19 period, all passengers had to take an ART test prior to boarding. Surprisingly, although Justina and Victoria took their test before us, Emanuel and I got out test results 10 mins (sms received by me, or you can also check your TraceTogether app for the results.) earlier than Justina and Victoria. Once all the results were received, we were able to proceed from the ART holding center to join the queue for entry into the Singapore Cruise Centre.
+<span class="image right"><img src="{% link assets/images/20211201-dream-cruise-3.jpg %}" alt="" /></span>This being the COVID-19 period, all passengers had to take an ART test (nope, dun worry, this is not a drawing test) prior to boarding. Surprisingly, although Justina and Victoria took their test before us, Emanuel and I got our test results 10 mins (sms received by me, or you can also check your TraceTogether app for the results.) earlier than Justina and Victoria. Once all the results were received, we were able to proceed from the ART holding center to join the queue for entry into the Singapore Cruise Centre.
 
 The wait here was much longer, about an hour, before we even got into the cruise centre itself! Once inside however, it was relatively smooth (not sure whether it was due to the being out of the sweltering heat), from the mandatory checking of luggages to the receiving of our ship pass and the Tracy token (mandatory for moving around the ship). From then on, it was another wait (this time, at the departure hall) before we finally got on board our home for the next 2 nights, the Genting World Dream, around 2:15pm. And so began our holiday proper!
 
 <em>Tip: Most people will check into their rooms first when they board the ship. Take this opportunity to make your bookings for the pool / jacuzzi.</em>
 
-Once aboard the ship, we immediately sprung into action. Victoria and I were responsible for booking slots for the pool and jacuzzi whilst Justina and Emanuel took our luggages to the room. Surprisingly, when Victoria and I reached the pool, there were but only 3 others in front of us. We practically got a free selection of any slots we wanted, the only caveat being that one could only either book for the pool, or the jaccuzi, bit of a bummer. Nonetheless, we decided upon the 7pm slot for jacuzzi. While waiting, I also attempted to book the slots via the app for the shows on the ship. However, only managed to book Lumiere (supposely a magic show) as JOLLY HOLLY (the main show) was fully booked for the day.
+Once aboard the ship, we immediately sprung into action. Victoria and I were responsible for booking slots for the pool and jacuzzi whilst Justina and Emanuel took our luggages to the room. Surprisingly, when Victoria and I reached the pool, there were but only 3 others in front of us. We practically got a free selection of any slots we wanted, the only caveat being that one could only either book for the pool, or the jaccuzi, bit of a bummer. Nonetheless, we decided upon the 7pm slot for jacuzzi. While waiting, I also attempted to book the slots via the app for the shows on the ship. However, only managed to book LUMIERE (supposely a magic show) as JOLLY HOLLY (the main show) was fully booked for the day.
 
 <span class="image left"><img src="{% link assets/images/20211201-dream-cruise-4.jpg %}" alt="" /></span>Once that was settled, we made our way back to the cabins to find both Justina and Emanuel nicely settled down. We proceeded for lunch at the chinese restaurant (the kids were protesting as the reviews rated the food there as mediocre) but we were pleasantly surprised by the soup and the dessert. Even Victoria (the loudest "protester") was won over. We decided to explore the ship after lunch, and made our way to the upper decks with the intention to book a slot for the rope course (which Victoria had stated in no uncertain terms is an activity that she MUST do).
 
@@ -41,11 +41,11 @@ Initially, we were disappointed when informed that the zip line (part of the rop
 
 <em>Tip: If you are a coffee junkie, suggestion is to bring your own.</em>
 
-<span class="image left"><img src="{% link assets/images/20211201-dream-cruise-7.jpg %}" alt="" /></span>Emanuel didn't want to join us in the jacuzzi and decided to span time alone in the room, leaving the 3 of us to our little splashing good time at the jacuzzi! Right after that, we went for our first show, LUMIERE.
+<span class="image left"><img src="{% link assets/images/20211201-dream-cruise-7.jpg %}" alt="" /></span>Emanuel didn't want to join us in the jacuzzi and decided to spend time alone in the room, leaving the 3 of us to our little splashing good time at the jacuzzi! Right after that, we went for our first show, LUMIERE.
 
 Truth be told, was quite disappointed as there wasn't much in the way of magic, a verdict all four of us agreed upon. After a long day, we finally settled down into our rooms and entered our dream world in the comfort of our beds.
 
-<span class="image left"><img src="{% link assets/images/20211201-dream-cruise-9.jpg %}" alt="" /></span>On our second day (which essentially was the main day for a 3 days 2 nights cruisecation), we started off by visiting the VR room! Kids below 12 get to try out the games at a cheaper rate (1-for-1) during certain hours but do take note of the height requirements. Victoria went for her "Finger Coaster" 4D ride while Emanuel and Justina tried the impressive looking (but ultimately disappointing and unexciting) 3 screens racing simulator. At the very least, Victoria enjoyed herself, hence the money wasn't wasted. Victoria and i also went the try out the 3D Dark Ride and it was very fun! It is a must try!
+<span class="image left"><img src="{% link assets/images/20211201-dream-cruise-9.jpg %}" alt="" /></span>On our second day (which essentially was the main day for a 3 days 2 nights cruisecation), we started off by visiting the VR room! Kids below 12 get to try out the games at a cheaper rate (1-for-1) during certain hours but do take note of the height requirements. Victoria went for her "Finger Coaster" 4D ride while Emanuel and Justina tried the impressive looking (but ultimately disappointing and unexciting) 3 screens racing simulator. At the very least, Victoria enjoyed herself, hence the money wasn't wasted. Victoria and i also went the try out the 3D Dark Ride and it was very fun! Definitely a must try!
 
 <em>Tip: At different times of the day, there are different promotions.</em>
 
@@ -61,6 +61,6 @@ The last and final day was pretty much reserved for disembarking. All the activi
 
 <em>Tip: The crew will knock on your door to inform you that you can being disembarking</em>
 
- We were one of the last families to disembark, and it was kinda weird walking thro the now empty hallways, jackpot machines and stairs to the exit.
+ We were one of the last families to disembark, and it was kinda weird walking thro the now empty hallways, silent jackpot machines and stairs to the exit.
 
-All in, it was a welcome break from the drudgery, everyday life during the COVID-19 pandemic. We left with happy memories and no regrets, save one ... only that it had to end so soon! Perhaps, the Palace Villa next?
+All in, it was a welcome break from the drudgery of everyday life during the COVID-19 pandemic. We left with happy memories and no regrets, save one ... only that it had to end so soon! Perhaps, the Palace Villa next?
