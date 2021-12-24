@@ -17,9 +17,9 @@ nav-menu: true
   	<div class="content">
   		<div class="inner">
   			<header class="major">
-  				<h3>Cruisecation on the World Dream</h3>
+  				<h3>Outing to Gardens by the Bay!</h3>
   			</header>
-  			<p>Dec 2021, most of the world is still closed to us due to Covd-19 but thankfully, the cruise is still available to us!</p>
+  			<p>As a reward for Victoria getting her first school award, the family decided on an outing to Gardens by the Bay!</p>
   			<ul class="actions">
   				<li><a href="/travels/cruisecation-on-the-world-dream.html" class="button">It's a dream...</a></li>
   			</ul>
