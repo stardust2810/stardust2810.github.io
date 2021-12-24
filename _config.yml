@@ -50,4 +50,6 @@ collections_dir: my_collections
 collections:
   travels:
     output: true
+  yesteryear:
+    output: true
     
