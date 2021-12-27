@@ -1,6 +1,6 @@
 ---
 title: Once upon a time...
-layout: landing
+layout: default
 description: 'Return with us now to those thrilling days of yesteryear'
 image: assets/images/ng-family.jpg
 nav-menu: true
