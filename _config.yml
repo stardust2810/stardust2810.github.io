@@ -4,8 +4,8 @@ title: "four.sg"
 description: "A personal blog on the ups and downs of the Ng Family."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "/"
-url: "https://four.sg"
+baseurl: ""
+url: "http://four.sg"
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
