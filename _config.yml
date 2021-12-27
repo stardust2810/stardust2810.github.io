@@ -15,7 +15,7 @@ permalink: /:title/
 authors:
   jeffrey:
     name: Jeffrey
-    display_name: Jeffrey
+    display_name: stardust2810
     avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: stardust2810@outlook.com
@@ -32,22 +32,14 @@ authors:
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   victoria:
-    name   : "Victoria Ng"
-    avatar : "assets/images/avatar.png"
-    bio    : "My awesome biography constrained to a sentence or two goes here."
-    links:
-      - label: "Website"
-        icon: "fas fa-fw fa-link"
-        url: "https://"
-      - label: "Twitter"
-        icon: "fab fa-fw fa-twitter-square"
-        url: "https://twitter.com/"
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github"
-        url: "https://github.com/"
-      - label: "Instagram"
-        icon: "fab fa-fw fa-instagram"
-        url: "https://instagram.com/"
+    name: Victoria
+    display_name: Victoria Ng
+    avatar: 'assets/images/avatar.png'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: victoria.ng@outlook.com
+    web: https://four.sg
+    #twitter: https://twitter.com/stardust2810
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
 
 # Plugins
 plugins:
