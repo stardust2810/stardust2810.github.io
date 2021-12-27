@@ -38,9 +38,10 @@ gallery:
     image_path: https://live.staticflickr.com/65535/51779475440_49999a191f_q.jpg
     alt: "Roses amongst the thorns"
   - url: https://flic.kr/p/2mTzm5J
-    image_path: https://live.staticflickr.com/65535/51779475450_d2f4eeec1c_q.jpg
+    image_path: https://live.staticflickr.com/65535/51779475450_46a351886b_q.jpg
     alt: "Sun-burst"
 ---
+
 
 {% include gallery class="full" caption="Flowers at the Gardens" %}
 
