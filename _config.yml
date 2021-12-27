@@ -4,7 +4,7 @@ title: "four.sg"
 description: "A personal blog on the ups and downs of the Ng Family."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "/"
+baseurl: "four.sg"
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
@@ -39,7 +39,7 @@ authors:
     email: victoria.ng@outlook.com
     web: https://four.sg
     #twitter: https://twitter.com/stardust2810
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "Light of the party, always cheerful, always positive."
 
 # Plugins
 plugins:
