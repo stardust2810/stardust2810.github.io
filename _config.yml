@@ -53,7 +53,7 @@ paginate_path: /page:num/
 
 # Other
 markdown: kramdown
-theme: "mediumish-jekyll-theme"
+remote-theme: "wowthemesnet/mediumish-jekyll-theme"
 
 kramdown:
   input: GFM
