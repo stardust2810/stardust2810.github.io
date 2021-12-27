@@ -42,6 +42,6 @@ gallery:
     alt: "Sun-burst"
 ---
 
-{% include gallery caption="Flowers at the Gardens" %}
+{% include gallery class="full" caption="Flowers at the Gardens" %}
 
 {% include video id="mUrlkTtWVTM" provider="youtube" %}
