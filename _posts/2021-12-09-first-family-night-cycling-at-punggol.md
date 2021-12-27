@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Outing to Gardens by the Bay"
+title:  "First family night cycling at Punggol"
 author: jeffrey
 categories: [ experiences ]
 tags: [red, yellow]
 image: http://via.placeholder.com/750x500
-description: "As a reward for Victoria getting her first school award, the family decided on an outing to Gardens by the Bay!"
+description: "We decided to go punggol for our first family night cycling!"
 featured: false
 hidden: false
 rating: 4.5

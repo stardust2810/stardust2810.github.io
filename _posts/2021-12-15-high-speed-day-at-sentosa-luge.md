@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Outing to Gardens by the Bay"
+title:  "High speed day at Sentosa Luge"
 author: jeffrey
 categories: [ experiences ]
 tags: [red, yellow]
 image: http://via.placeholder.com/750x500
-description: "As a reward for Victoria getting her first school award, the family decided on an outing to Gardens by the Bay!"
+description: "Play date for the kids at the Sentosa Skyline Luge"
 featured: false
 hidden: false
 rating: 4.5

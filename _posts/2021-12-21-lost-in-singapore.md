@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Outing to Gardens by the Bay"
+title:  "Lost in Singapore"
 author: jeffrey
 categories: [ experiences ]
 tags: [red, yellow]
 image: http://via.placeholder.com/750x500
-description: "As a reward for Victoria getting her first school award, the family decided on an outing to Gardens by the Bay!"
+description: "Lost in Singapore with the kids"
 featured: false
 hidden: false
 rating: 4.5
