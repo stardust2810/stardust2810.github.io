@@ -1,52 +1,73 @@
-# site settings
-title: four.sg
-subtitle: by stardust2810
-email: stardust2810@gmail.com
-description: A personal blog on the ups and downs of the Ng Family.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author: stardust2810
-street_address: null
-city: null
-state: null
-zip_code: null
-country: tiny island somewhere in the pacific
-phone: null
+# Site
+name: "four.sg"
+title: "four.sg"
+description: "A personal blog on the ups and downs of the Ng Family."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: "/"
+google_analytics: ''
+disqus: ''
+mailchimp-list: ''
+include: ["_pages"]
+permalink: /:title/
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 20
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  john:
+    name: John
+    display_name: John    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: wowthemesnet@gmail.com
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/stardust2810
-  GitLab:
-  Google-Plus:
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/stardust2810
-  Twitter: https://twitter.com/stardust2810
-  Facebook:
-  Slack:
-
-# build settings
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
 markdown: kramdown
-theme: "forty-jekyll-theme"
+theme: "mediumish-theme-jekyll"
 
-sass:
-  style: compressed
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
 
-exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
 
-# collections
-collections_dir: my_collections
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
 
-collections:
-  travels:
-    output: true
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
