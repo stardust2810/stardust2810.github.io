@@ -1,7 +1,7 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
@@ -305,8 +305,17 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
+    font-weight: 600;
+    font-family: 3.75rem Arizonia, JennaSue, Arial, Helvetica, sans-serif, Righteous;
+    margin: -1px 0px;
+    color: #ff33ff;
     font-family: Righteous;
 }
+
+.site-logo {
+
+}
+
 
 .mainheading h1.posttitle {
     font-weight: 700;
