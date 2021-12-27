@@ -305,12 +305,8 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-weight: 600;
-    font: 3.75rem Arizonia, JennaSue, Arial, Helvetica, sans-serif;
-    margin: -1px 0px;
-    color: #ff33ff;
+    font-family: Righteous;
 }
-/*font-family: Righteous;*/
 
 .mainheading h1.posttitle {
     font-weight: 700;
