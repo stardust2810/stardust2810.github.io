@@ -13,13 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  jeffrey:
+    name: Jeffrey
+    display_name: Jeffrey
+    avatar: 'assets/images/avatar.png'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: stardust2810@outlook.com
+    web: https://four.sg
+    twitter: https://twitter.com/stardust2810
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
     name: John
@@ -30,14 +31,33 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  victoria:
+    name   : "Victoria Ng"
+    avatar : "assets/images/avatar.png"
+    bio    : "My awesome biography constrained to a sentence or two goes here."
+    links:
+      - label: "Website"
+        icon: "fas fa-fw fa-link"
+        url: "https://"
+      - label: "Twitter"
+        icon: "fab fa-fw fa-twitter-square"
+        url: "https://twitter.com/"
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/"
+      - label: "Instagram"
+        icon: "fab fa-fw fa-instagram"
+        url: "https://instagram.com/"
 
 # Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jemoji
   - jekyll-include-cache
 
 # Archives
