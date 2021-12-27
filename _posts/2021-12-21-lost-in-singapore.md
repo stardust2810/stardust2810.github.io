@@ -4,7 +4,7 @@ title:  "Lost in Singapore"
 author: jeffrey
 categories: [ experiences ]
 tags: [red, yellow]
-image: http://via.placeholder.com/750x500
+image: assets/images/2021-12-21-lost-in-singapore-1.jpg
 description: "Lost in Singapore with the kids"
 featured: false
 hidden: false
