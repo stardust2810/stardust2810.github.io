@@ -4,7 +4,7 @@ title:  "Outing to Gardens by the Bay"
 author: jeffrey
 categories: [ experiences ]
 tags: [red, yellow]
-image: http://via.placeholder.com/750x500
+image: assets/images/2021-12-10-gardens-1.jpg
 description: "As a reward for Victoria getting her first school award, the family decided on an outing to Gardens by the Bay!"
 featured: false
 hidden: false
