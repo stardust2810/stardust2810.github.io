@@ -13,3 +13,9 @@
 	"syntax",
     "starsnonscss"
 ;
+
+/** image gallery **/
+figure.third > a > img {
+    margin-bottom: 1em;
+    margin-right: 0.5em;
+}
