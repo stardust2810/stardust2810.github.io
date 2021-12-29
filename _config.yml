@@ -67,7 +67,7 @@ paginate_path: /page:num/
 
 # Other
 markdown: kramdown
-remote_theme: "mmistakes/minimal-mistakes"
+theme: "mediumish-jekyll-theme"
 
 
 kramdown:
