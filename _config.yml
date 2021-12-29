@@ -67,7 +67,6 @@ paginate_path: /page:num/
 
 # Other
 markdown: kramdown
-theme: "mediumish-jekyll-theme"
 
 
 kramdown:
