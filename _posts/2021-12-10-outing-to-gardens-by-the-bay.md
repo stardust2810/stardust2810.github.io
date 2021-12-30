@@ -49,7 +49,7 @@ Justina and I decided to recognised her achievement, and brought her to Gardens 
 ![2021-12-10-gardens-2.jpg](/assets/images/2021-12-10-gardens-2.jpg){: .align-left}
 And we were off on 10th Dec. Due to COVID, we had to "booked" slots for entry to each of the attractions. We were actually late and had to re-booked our entry slots. Thankfully, it was a weekday and traffic was considered on the lower end. Lunch at Shake Shack costed a bomb (by my standards) but we all ate our fill. This was followed by a visit to the Flower Dome first, a nice walk in an air-conditioned place, to wean off the effects of lunch! Victoria was her usual bubbly self (more than usual, as she was enjoying her reward!) and could not wait to take a photo with each and every one of the array of plants inside!
 
-<BR clear="left">
+<BR clear="all">
 {% include gallery class="full" %}
 <i>Some of the beautiful flowers in the Flower Dome</i>
 
@@ -60,5 +60,6 @@ Near the exit of the Flower Dome, we chanced across a small exhibition, showcasi
 ![2021-12-10-gardens-5.jpg](/assets/images/2021-12-10-gardens-5.jpg){: .align-right}
 Past the Flower Dome, the next attaction on our list was the Cloud Forest. It was a nice ride (up the elevator, not climb) up to "heaven" followed by a nice walk back down to "earth". On our way down, it started to pour cats and dogs outside, a bit of a damper as we had planned to visit the OCBC Skyway next.
 
-<BR clear="left">
 All in, it was a pretty enjoyable trip, all the more made so by the cheerful and always smiling Victoria! We made a booking for dim sum breakfast at "Majestic Bay Seafood Restaurant" and look forward to coming back again!
+
+<BR clear="all">
