@@ -55,7 +55,6 @@ Lunch at Shake Shack costed a bomb (by my standards) but we all ate our fill. Th
 
 <BR clear="all">
 {% include gallery caption="Some of the beautiful flowers in the Flower Dome" class="full" %}
-<i>Some of the beautiful flowers in the Flower Dome</i>
 
 Near the exit of the Flower Dome, we chanced across a small exhibition, showcasing the effects that humans are having on our environment. It was actually a branch, overlaid with a screen that projected various images. Both Victoria and I were enthralled by the display.
 
