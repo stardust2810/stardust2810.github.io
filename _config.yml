@@ -5,7 +5,7 @@ description: "A personal blog on the ups and downs of the Ng Family."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-url: "http://four.sg"
+url: "https://www.four.sg"
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
