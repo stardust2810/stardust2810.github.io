@@ -6,7 +6,7 @@ categories: [ experiences ]
 tags: [family]
 image: assets/images/2021-12-10-gardens-1.jpg
 description: "As a reward for Victoria getting her first school award, the family decided on an outing to Gardens by the Bay!"
-featured: false
+featured: true
 hidden: false
 rating:
 gallery:
