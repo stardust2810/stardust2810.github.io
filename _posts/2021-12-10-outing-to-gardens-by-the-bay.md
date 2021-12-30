@@ -42,12 +42,16 @@ gallery:
     alt: "Sun-burst"
 ---
 
-It's the end of the school term, and most schools will be handling out awards and trophies to their students to recognise them for their effort. Victoria came back from school one day and proudly presented to us the award that she had gotten from her school! It was unexpected, even for herself. She had heard of her cousins and friends, getting awards one after anotheer and i think that she felt she will never be able to get one as she was not performing up to mark. So imaging that beautiful, bright smile on her face as she excitedly revealed her award to us.
+It's the end of the school term, and most schools will be handling out awards and trophies to their students to recognise them for their effort. Victoria came back from school one day and proudly presented to us the award that she had gotten from her school!
+
+It was unexpected, even for herself. She had heard of her cousins and friends, getting awards one after anotheer and i think that she felt she will never be able to get one as she was not performing up to mark. So imaging that beautiful, bright smile on her face as she excitedly revealed her award to us.
 
 Justina and I decided to recognised her achievement, and brought her to Gardens by the Bay as a reward (she had always wanted to dine at one of the restaurants there). We actually bought season tickets (6 months validity, weekdays only) as it cost the same as a single day pass. Prior to the trip, we had worried that the sky may break but thankfully, the weather held for the most part.
 
 ![2021-12-10-gardens-2.jpg](/assets/images/2021-12-10-gardens-2.jpg){: .align-left}
-And we were off on 10th Dec. Due to COVID, we had to "booked" slots for entry to each of the attractions. We were actually late and had to re-booked our entry slots. Thankfully, it was a weekday and traffic was considered on the lower end. Lunch at Shake Shack costed a bomb (by my standards) but we all ate our fill. This was followed by a visit to the Flower Dome first, a nice walk in an air-conditioned place, to wean off the effects of lunch! Victoria was her usual bubbly self (more than usual, as she was enjoying her reward!) and could not wait to take a photo with each and every one of the array of plants inside!
+And we were off on 10th Dec. Due to COVID, we had to "booked" slots for entry to each of the attractions. We were actually late and had to re-booked our entry slots. Thankfully, it was a weekday and traffic was considered on the lower end.
+
+Lunch at Shake Shack costed a bomb (by my standards) but we all ate our fill. This was followed by a visit to the Flower Dome first, a nice walk in an air-conditioned place, to wean off the effects of lunch! Victoria was her usual bubbly self (more than usual, as she was enjoying her reward!) and could not wait to take a photo with each and every one of the array of plants inside!
 
 <BR clear="all">
 {% include gallery class="full" %}
