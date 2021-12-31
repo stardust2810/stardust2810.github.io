@@ -303,9 +303,14 @@ span.post-read-more a:hover {
     max-height: 30px;
     margin-right: 5px;
 }
-
+/*
 .mainheading h1.sitetitle {
     font-family: Righteous;
+}
+*/
+
+.mainheading h1.sitetitle {
+    font-family: JennaSue;
 }
 
 .mainheading h1.posttitle {
