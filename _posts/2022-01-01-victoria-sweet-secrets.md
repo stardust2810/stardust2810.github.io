@@ -4,7 +4,7 @@ title:  "Victoria Sweet Secrets"
 author: jeffrey
 categories: [ experiences ]
 tags: [family]
-image: assets/images/2022-01-01-victoria-sweet-secrets-1.jpg
+image: assets/images/2022-01-01-victoria-sweet-secrets-2.jpg
 description: "Family gets treated to sweet secrets from Victoria"
 featured: true
 hidden: false
@@ -15,7 +15,7 @@ The family had decided to spend our SGVoucher on a river cruise and had gone to 
 
 Victoria could not wait to get started and the next day, she finally got the chance to do so. It was supposed to be a secret dessert for our lunch and she "chased" everyone out of her room and locked herself inside for a good half an hour. In her own infectious, chirpy and cheerful way, she got the entire family (including Emanuel) curious about what she had prepared for us.
 
-![2022-01-01-victoria-sweet-secrets-2.jpg](/assets/images/2022-01-01-victoria-sweet-secrets-2.jpg){: .align-left}
+![2022-01-01-victoria-sweet-secrets-1.jpg](/assets/images/2022-01-01-victoria-sweet-secrets-1.jpg){: .align-left}
 
 We gathered in her room after lunch, and were pleasantly surprised when she presented us her masterpiece, a tantalising, miniaturised plate consisting of lollipops, baked corn, french fries and ice-cream! Full points for presentation! Firstly, we sample her "fries" and ... it tasted like pineapple (both texture and taste), the type of fillings you get in pineapple tarts, pretty interesting!
 
