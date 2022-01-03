@@ -3,7 +3,7 @@ layout: post
 title:  "Victoria Sweet Secrets"
 author: jeffrey
 categories: [ experiences ]
-tags: [family]
+tags: [family, victoria]
 image: assets/images/2022-01-01-victoria-sweet-secrets-2.jpg
 description: "Family gets treated to sweet secrets from Victoria"
 featured: true
