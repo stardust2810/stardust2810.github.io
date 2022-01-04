@@ -312,6 +312,7 @@ span.post-read-more a:hover {
 .mainheading h1.sitetitle {
     font-family: JennaSue;
     font-size: 4em;
+    text-shadow: 4px 4px 4px #aaa;
 }
 
 .mainheading h1.posttitle {
@@ -336,7 +337,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Lato;
+    font-family: Montserrat;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
