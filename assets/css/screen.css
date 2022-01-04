@@ -338,9 +338,9 @@ span.post-read-more a:hover {
 
 .article-post {
     font-family: Montserrat;
-    font-size: 1.1rem;
-    line-height: 1.84;
-    color: rgba(0, 0, 0, .8);
+    font-size: 1.0rem;
+    line-height: 1.8;
+    color: rgba(118, 118, 118, 1);
 }
 
 blockquote {
