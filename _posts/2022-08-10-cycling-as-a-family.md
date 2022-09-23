@@ -4,7 +4,7 @@ title:  "Cycling as a family"
 author: jeffrey
 categories: [ faith ]
 tags: [family, activities]
-image: assets/images/2022-08-10-cycling-as-a-family.jpg
+image: assets/images/2022-08-10-cycling-as-a-family-1.jpg
 description: "Night cycling at East Coast Park!"
 featured: true
 hidden: false
